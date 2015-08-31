@@ -1,2 +1,2 @@
-# ogjdne.github.io
-main site repository
+# ogjdne.site
+primary professionalsite
